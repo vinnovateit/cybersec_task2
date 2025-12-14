@@ -65,7 +65,7 @@ Submit a **Security Audit Report** (Markdown or PDF) including:
 ### Setup
 In your terminal
 ```bash
-git clone [<repo-url>](https://github.com/vinnovateit/cybersec_task2.git)
+git clone https://github.com/vinnovateit/cybersec_task2.git
 cd vuln-ecommerce-api
 python -m venv venv
 venv\Scripts\activate # For Linux or Mac source venv/bin/activate
